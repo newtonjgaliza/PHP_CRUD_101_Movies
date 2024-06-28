@@ -1,2 +1,2 @@
-# PHP_CRUD_101_Movies
+# PHP CRUD 101 Movies
 introduction to CRD in PHP
